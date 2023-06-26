@@ -1,0 +1,4 @@
+# Dan Leopold - 6.26.23
+
+# tstat_cluster_results.sh documents process for using thresholded masks for visualizing full-spectrum t-stat maps
+# cluster_fslmeants_auto.sh creates cluster maps and stats for provided thresholds and extract % signal change for local maxima
