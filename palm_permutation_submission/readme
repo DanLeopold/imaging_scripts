@@ -1,0 +1,5 @@
+# Dan Leopold - 6.26.23
+
+# Shell scripts for customization of functional and structural analysis job submissions to PALM
+# run_palm is SLURM job submission script
+# make_pos_neg_maps is FSL creation of bidirectional contrast maps, thresholded at p<.05 (tfce fwe-p)
